@@ -14,8 +14,8 @@ Overall we looked at multiple ways on how this changed our original analysis.
 * Math and reading scores by grade
 Since all of the ninth grade was dropped we will have a smaller sample size, as we will only be able to evaluate the 10th through 12th grade now.
 * Scores by school spending
-![Screen Shot 2022-04-17 at 9 38 51 PM](https://user-images.githubusercontent.com/101231388/163744314-24c8accd-bd6c-4459-97f5-100cd2de5875.png)/n
-![Screen Shot 2022-04-17 at 10 17 30 PM](https://user-images.githubusercontent.com/101231388/163744339-d1a6ab5b-b27e-49cf-b1c3-9e172e602e16.png)
+![Updated_scores_by_schools](https://user-images.githubusercontent.com/101231388/163744373-aac4e57c-880c-4191-8d5c-128fe222b5d6.png)/n
+![Original_scores_by_schools](https://user-images.githubusercontent.com/101231388/163744339-d1a6ab5b-b27e-49cf-b1c3-9e172e602e16.png)
 * Scores by school size
 -
 ## Summary ##
