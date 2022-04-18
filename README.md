@@ -16,6 +16,14 @@ Since all of the ninth grade was dropped we will have a smaller sample size, as 
 * Scores by school spending
 ![Updated_scores_by_schools](https://user-images.githubusercontent.com/101231388/163744373-aac4e57c-880c-4191-8d5c-128fe222b5d6.png)
 ![Original_scores_by_schools](https://user-images.githubusercontent.com/101231388/163744339-d1a6ab5b-b27e-49cf-b1c3-9e172e602e16.png)
+Overall the adjustments made shows no significant changes.
 * Scores by school size
--
+![Screen Shot 2022-04-17 at 10 16 25 PM](https://user-images.githubusercontent.com/101231388/163744899-c23ebee8-aaf5-4b7b-946b-4434e221d5f0.png)
+![Screen Shot 2022-04-17 at 10 18 44 PM](https://user-images.githubusercontent.com/101231388/163744914-04c143b6-4245-43d6-bfc4-2bedbc09b926.png)
+Once again the differences were minimal as there is no significant changes shown.
+* Scores by school type
+![Screen Shot 2022-04-17 at 10 16 34 PM](https://user-images.githubusercontent.com/101231388/163745033-e257b6f0-18c1-46a2-8a2b-23d915ff519f.png)
+![Screen Shot 2022-04-17 at 10 18 58 PM](https://user-images.githubusercontent.com/101231388/163745040-8e90015a-724d-4214-9afd-2517b740762f.png)
+Lastly there is no significant changes to see a difference between both of our analyses.
 ## Summary ##
+While academic dishonesty must be taken seriously. We see that our main changes occur within our district summary only. Overall with all of the ninth grade scores being nulled we are confident with the accuracy of our analysis. We did have to make adjustments to our original analysis, because when the results were first replaced, we saw Thomas High Schools overall scores drop by 30 points and the overall passing drop by 25%. Through adjusting the overall student count for Thomas High School we were able to correct the immediate errors.
