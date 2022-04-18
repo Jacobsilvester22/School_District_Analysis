@@ -17,6 +17,7 @@ Since all of the ninth grade was dropped we will have a smaller sample size, as 
 ![Updated_scores_by_schools](https://user-images.githubusercontent.com/101231388/163744373-aac4e57c-880c-4191-8d5c-128fe222b5d6.png)
 ![Original_scores_by_schools](https://user-images.githubusercontent.com/101231388/163744339-d1a6ab5b-b27e-49cf-b1c3-9e172e602e16.png)
 Overall the adjustments made shows no significant changes.
+&nbsp;
 * Scores by school size
 ![Screen Shot 2022-04-17 at 10 16 25 PM](https://user-images.githubusercontent.com/101231388/163744899-c23ebee8-aaf5-4b7b-946b-4434e221d5f0.png)
 ![Screen Shot 2022-04-17 at 10 18 44 PM](https://user-images.githubusercontent.com/101231388/163744914-04c143b6-4245-43d6-bfc4-2bedbc09b926.png)
