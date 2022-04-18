@@ -12,9 +12,10 @@ Overall we looked at multiple ways on how this changed our original analysis.
  - Once we dropped all of the ninth graders scores we saw a increase in our average reading scores by 0.05 points and a decrease in our maths scores by 0.1 points. This resulted in a decrease in overall passing by 0.3%. Average Math scores dropped 0.1 points bringing the percent passing down 0.2%. This in turn saw a decrease in 0.1% in overall passing percentages.
 4. How does replacing the ninth-grade scores affect the following:
 * Math and reading scores by grade
-- Since all of the ninth grade was dropped we will have a smaller sample size, as we will only be able to evaluate the 10th through 12th grade now.
+Since all of the ninth grade was dropped we will have a smaller sample size, as we will only be able to evaluate the 10th through 12th grade now.
 * Scores by school spending
-- 
+![Screen Shot 2022-04-17 at 9 38 51 PM](https://user-images.githubusercontent.com/101231388/163744314-24c8accd-bd6c-4459-97f5-100cd2de5875.png)/n
+![Screen Shot 2022-04-17 at 10 17 30 PM](https://user-images.githubusercontent.com/101231388/163744339-d1a6ab5b-b27e-49cf-b1c3-9e172e602e16.png)
 * Scores by school size
 -
 ## Summary ##
